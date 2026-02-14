@@ -1,5 +1,9 @@
 #savings_account.py
 
+'''
+This child class extends the parent BankAccount and has additional functionality for
+applying interest.
+'''
 from bank_account import BankAccount
 
 class SavingsAccount(BankAccount):
