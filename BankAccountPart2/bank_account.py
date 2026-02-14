@@ -1,5 +1,8 @@
 # bank_account.py
 
+'''
+This is the parent class called BankAccount that is carried from the initial BankAccount exercise.
+'''
 class BankAccount:
     def __init__(self, customer_name, balance, minimum_balance):
         self.customer_name = customer_name
