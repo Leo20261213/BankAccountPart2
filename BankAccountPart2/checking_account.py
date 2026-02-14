@@ -1,5 +1,8 @@
 #checking_account.py
 
+'''
+This is a child class that extends the parent BankAccount and provides the transfer functionality
+'''
 from bank_account import BankAccount
 
 class CheckingAccount(BankAccount):
