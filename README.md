@@ -1,2 +1,2 @@
-# BankAccount-2
-Here is the collaborative work for BankAccount #2
+# BankAccountPart2
+Here is the collaborative work for BankAccountPart2
